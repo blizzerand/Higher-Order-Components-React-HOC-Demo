@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import LoadIndicator from './LoadIndicatorHOC.jsx';
+import LoadIndicator from './LoaderHOC.jsx';
 import './ContactsApp.css';
 
 
